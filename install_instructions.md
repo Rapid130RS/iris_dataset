@@ -10,4 +10,4 @@ On macOS, the best way to install Python 3 involves installing a package manager
 # Cloning the Python Code
 
 1. Clone the repository and navigate to the downloaded folder. 
-2. git clone https://github.com/rapid130rs/iris_dataset.git 
+2. [Git clone](https://github.com/rapid130rs/iris_dataset.git)
