@@ -7,6 +7,9 @@ Generating an attractive markdown was an objective, I used a number of sources:
 3. [GitHub Guide](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 4. [Github Markdown Guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 
+## Importing .CSV Files
+1. [Importing .CSV files](https://courses.cs.washington.edu/courses/cse140/13wi/csv-parsing.html)
+
 ## General Information
 I researched what an Iris is and the general backgorund to the dataset using the following:
 1. [What is an Iris Flower](https://en.wikipedia.org/wiki/Iris_(plant))
