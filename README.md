@@ -9,8 +9,8 @@
 
 ![Iris](iris.jpg)
 
-The subejct matter of the Iris dataset is a family of 260–300 types of flowers. IN 1936 RA Fisher had a paper published [I'm an inline-style link](https://www.google.com) 
-[paper pulished](http://github.com "Named link title") in the •Annals of Eugenics• 
+The subejct matter of the Iris dataset is a family of 260–300 types of flowers. IN 1936 RA Fisher had a 
+[paper pulished](http://github.com "Named link title") in the ••Annals of Eugenics• 
 
 [I'm an inline-style link](https://www.google.com)
 
