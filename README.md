@@ -12,3 +12,6 @@ What is an Iris?
 ![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg "Title is optional")
 </p>
 
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
