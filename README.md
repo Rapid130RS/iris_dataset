@@ -8,7 +8,7 @@
 <h3> What is an Iris? </h3>
 
 ![Iris](iris.jpg)
-![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg "Title is optional")
+The 
 </p>
 
 
