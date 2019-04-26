@@ -11,7 +11,6 @@ What is the Iris dataset?
 What is an Iris?
 ----------------
 ![Iris](iris.jpg)
-Markup : ![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg "Title is optional")
-
+![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg "Title is optional")
 </p>
 
