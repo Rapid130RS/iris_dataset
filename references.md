@@ -1,4 +1,4 @@
-**Bibliogrpahy**<p>This is a list of the sources used, by area of research for this project</p>
+<h1>Bibliogrpahy</h1><p>This is a list of the sources used, by area of research for this project</p>
 
 <h2>Markdown</h2><p>Generating an attractive markdown was an objective, I used a number of sources:
 1. [Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md "Named link title")
