@@ -8,10 +8,10 @@
 <h3> What is the Iris Dataset? </h3>
 
 ![Iris](iris.jpg)
-<p>
+
 The subejct matter of the Iris dataset is a family of 260–300 types of flowers. IN 1936 RA Fisher had a paper published [I'm an inline-style link](https://www.google.com) 
 [paper pulished](http://github.com "Named link title") in the •Annals of Eugenics• 
-</p>
+
 [I'm an inline-style link](https://www.google.com)
 
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
