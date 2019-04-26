@@ -9,14 +9,13 @@
 
 ![Iris](iris.jpg)
 <p>
-The subejct matter of the Iris dataset is a family of 260–300 types of flowers. IN 1936 RA Fisher had a paper published [paper pulished](http://github.com "Named link title") in the •Annals of Eugenics• 
+The subejct matter of the Iris dataset is a family of 260–300 types of flowers. IN 1936 RA Fisher had a paper published [I'm an inline-style link](https://www.google.com) 
+[paper pulished](http://github.com "Named link title") in the •Annals of Eugenics• 
 </p>
 [I'm an inline-style link](https://www.google.com)
 
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
 
 [You can use numbers for reference-style link definitions][1]
