@@ -9,6 +9,7 @@ Generating an attractive markdown was an objective, I used a number of sources:
 
 ## Importing .CSV Files
 1. [Importing .CSV files](https://courses.cs.washington.edu/courses/cse140/13wi/csv-parsing.html)
+2. [Stack Overflow guide](https://stackoverflow.com/questions/16283799/how-to-read-a-csv-file-from-a-url-with-python)
 
 ## General Information
 I researched what an Iris is and the general backgorund to the dataset using the following:
