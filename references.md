@@ -19,4 +19,5 @@ I researched what an Iris is and the general backgorund to the dataset using the
 
 ## Python Library
 I searched for a libary that specialised in visualising statistical data
-1. [Seaborn](https://seaborn.pydata.org/introduction.html)
+1. [Seaborn Guide](https://seaborn.pydata.org/introduction.html)
+2. [Introdiuction to Scikit Learn](https://www.youtube.com/watch?v=Zd5dfooZWG4)
