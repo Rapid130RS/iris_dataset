@@ -14,8 +14,7 @@ The data set contains 150 records of three different types (classes) of iris flo
 
 The data set has been used to demonstrate how features of an Iris flower can identify the class of Iris. The values for length and width can be used to classify an Iris into one of three classes: _Iris setosa_, _Iris versicolor_, or _Iris virginica_. 
 In the paper, a table of values is provided; as can be seen, a visual inspection of the data does not provide any valuable insights.
-
-!iris_dataset(iris_data.png)
+![iris_dataset](iris_data.png)
 
 # Utilising Python to Interpret Data
 
@@ -23,7 +22,10 @@ In the paper, a table of values is provided; as can be seen, a visual inspection
 
 ### Numpy
 
-### Mat
+### Matplotlib Pyplot
+
+[Matplotlib Pyplot](https://matplotlib.org/api/pyplot_api.html) is a library that allows for creation of a wide range of data visualisations. I was especially interested in creating a 3D plot of the Iris dataset. A [tutotrial](https://jakevdp.github.io/PythonDataScienceHandbook/04.12-three-dimensional-plotting.html) on the topic 
+
 
 ### SciKit Learn
 
