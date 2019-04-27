@@ -13,5 +13,5 @@ The data set contains 150 records of three different types (classes) of iris flo
 ## Why use the Iris Dataset?
 
 The data set has been used to demonstrate how features of an Iris flower can identify the class of Iris. The values for length and width can be used to classify an Iris into one of three classes: _Iris setosa_, _Iris versicolor_, or _Iris virginica_. In the paper, the table is provided; as can be seen, a visual inspection of the data does not provide any valuable insights.
-!iris_dataset(iris_dataset.png)
+![iris_dataset](iris_dataset.png)
 
