@@ -16,3 +16,7 @@ I researched what an Iris is and the general backgorund to the dataset using the
 1. [What is an Iris Flower](https://en.wikipedia.org/wiki/Iris_(plant))
 2. [Background to the Iris Database](https://www.kaggle.com/arshid/iris-flower-dataset)
 3. [Iris Dataset(CSV file)](https://raw.githubusercontent.com/uiuc-cse/data-fa14/gh-pages/data/iris.csv) 
+
+## Python Library
+I searched for a libary that specialised in visualising statistical data
+1. [Seaborn](https://seaborn.pydata.org/introduction.html)
