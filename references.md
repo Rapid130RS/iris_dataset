@@ -21,7 +21,10 @@ I researched what an Iris is and the general backgorund to the dataset using the
 I searched for a libary that specialised in visualising statistical data
 1. [Seaborn Guide](https://seaborn.pydata.org/introduction.html)
 2. [Introdiuction to Scikit Learn](https://www.youtube.com/watch?v=Zd5dfooZWG4)
-3. [Using Pandas to read data] (https://stackoverflow.com/questions/32400867/pandas-read-csv-from-url/41880513#41880513)
+3. [Using Pandas to read data](https://stackoverflow.com/questions/32400867/pandas-read-csv-from-url/41880513#41880513)
 4. [Reading in CSV files to Python](https://www.youtube.com/watch?v=BpgbECVTryk)
 5. [How Pandas imports a CSV as a dataframe](https://www.datacamp.com/community/tutorials/pandas-read-csv)
-6. [Generating Statistics using dataframes](https://stackoverflow.com/questions/31037298/pandas-get-column-average-mean)
+6. [Filtering Dataframes using iloc](http://www.datasciencemadesimple.com/index-select-filter-dataframe-pandas-python/) 
+7. [Generating Statistics using dataframes](https://stackoverflow.com/questions/31037298/pandas-get-column-average-mean)
+8. [Creating Scatter Plots from Dataframes](https://chrisalbon.com/python/data_visualization/matplotlib_scatterplot_from_pandas/)
+9. [Formatting MatPLotLib Charts](https://matplotlib.org/api/_as_gen/matplotlib.pyplot.scatter.html)
