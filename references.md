@@ -17,7 +17,11 @@ I researched what an Iris is and the general backgorund to the dataset using the
 2. [Background to the Iris Database](https://www.kaggle.com/arshid/iris-flower-dataset)
 3. [Iris Dataset(CSV file)](https://raw.githubusercontent.com/uiuc-cse/data-fa14/gh-pages/data/iris.csv) 
 
-## Python Library
+## Using Python Libraries
 I searched for a libary that specialised in visualising statistical data
 1. [Seaborn Guide](https://seaborn.pydata.org/introduction.html)
 2. [Introdiuction to Scikit Learn](https://www.youtube.com/watch?v=Zd5dfooZWG4)
+3. [Using Pandas to read data] (https://stackoverflow.com/questions/32400867/pandas-read-csv-from-url/41880513#41880513)
+4. [Reading in CSV files to Python](https://www.youtube.com/watch?v=BpgbECVTryk)
+5. [How Pandas imports a CSV as a dataframe](https://www.datacamp.com/community/tutorials/pandas-read-csv)
+6. [Generating Statistics using dataframes](https://stackoverflow.com/questions/31037298/pandas-get-column-average-mean)
