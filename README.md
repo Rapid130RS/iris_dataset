@@ -27,6 +27,8 @@ Python libraries will be of particular use in generating visualiations of the da
 
 # Utilising Python to Interpret Data
 
+The script for the analysis of the Iris Database is [here](https://github.com/Rapid130RS/pands-project/blob/archive/matplotlib_pyplot.ipynb).
+
 ## Gaining Specific Insights using Python Libraries
 
 At RA Fisher's published his paper, collecting, understanding and visualising data was intensive and time consuming. Today,  organisations and individuals want to gain insights from the deluge of data coming their way. Data Scientists have made  Python one of the most popular means of finding these insights. Python owes its popularity to ease of use and ability to undertake data analysis and visualisation. Python's core capabilities are enhanced with the numerous libraries. During this project, I have used some of the most popular, including Numpy, Matplotlib, Pandas and Scikit Learn.
