@@ -1,7 +1,7 @@
 # Exploring the Iris Dataset through Python
 ## Overview
 
-This relates to the classic Iris dataset. My objective is to understand the Iris dataset, analysis and make some insights into the dataset.
+This relates to the classic Iris dataset. My objective is to understand the Iris dataset, analyse and make some insights into the dataset.
 
 ## Objectives of this work
 
@@ -15,7 +15,7 @@ The install instructions for MacOS and Windows [here](https://github.com/Rapid13
 
 The subject matter of the Iris dataset is a family of 260–300 types of flowers. In 1936 RA Fisher published a 
 [paper](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1469-1809.1936.tb02137.x "Named link title") in the _Annals of Eugenics_. RA Fisher sought to differentiate between flowers based on their characteristics. In particular, he aimed to assess whether some types (genus) were misclassified. 
-The data set contains 150 records of three different types (classes) of iris flowers with numeric values for petal length and width and sepal length and width.
+The data set contains 150 records of three different types (classes) of Iris flowers with numeric values for petal length and width and sepal length and width.
 
 ## Why use the Iris Dataset?
 
@@ -29,7 +29,7 @@ Python libraries will be of particular use in generating visualiations of the da
 
 ## Gaining Specific Insights using Python Libraries
 
-At RA Fisher's published his paper, collecting, understanding and visualising data was intensive and time consuming. Today,  organisations and individuals want to gain insights from the deluge of data coming their way. Data Scientists have made  Python one of the most popular a way of finding these insights. Python owes its popularity to ease of use and ability to undertake data analysis and visualisation. Python's core capabilities are enhanced with the numerous libraries. During this project, I have used some of the most popular, including Numpy, Matplotlib, Pandas and Scikit Learn.
+At RA Fisher's published his paper, collecting, understanding and visualising data was intensive and time consuming. Today,  organisations and individuals want to gain insights from the deluge of data coming their way. Data Scientists have made  Python one of the most popular means of finding these insights. Python owes its popularity to ease of use and ability to undertake data analysis and visualisation. Python's core capabilities are enhanced with the numerous libraries. During this project, I have used some of the most popular, including Numpy, Matplotlib, Pandas and Scikit Learn.
 
 ### Matplotlib Pyplot
 
@@ -74,7 +74,7 @@ This exercise did not shed any more light on the nature of the dataset, but is a
 
 
 #### In respect of the Iris Dataset
-There are clear distinctions between _Iris Setosa_ is and both _Iris Versicolor_, or _Iris Virginica_. A predictive model could be developed that would allow researchers focus on the relationship between petal and sepal dimensions.
+There are clear distinctions between _Iris Setosa_ and both _Iris Versicolor_, or _Iris Virginica_. A predictive model could be developed that would allow researchers focus on the relationship between petal and sepal dimensions.
 
 #### In respect of the Python Libraries
 The python libraries used show how a descriptive analysis can be conducted, with limited knowledge of Python. A useful feature is that the source of the data was a URL, which could mean that researchers could update this shared resource, that could produce periodical reports. 
