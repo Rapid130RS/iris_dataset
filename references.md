@@ -27,4 +27,4 @@ I searched for a libary that specialised in visualising statistical data
 6. [Filtering Dataframes using iloc](http://www.datasciencemadesimple.com/index-select-filter-dataframe-pandas-python/) 
 7. [Generating Statistics using dataframes](https://stackoverflow.com/questions/31037298/pandas-get-column-average-mean)
 8. [Creating Scatter Plots from Dataframes](https://chrisalbon.com/python/data_visualization/matplotlib_scatterplot_from_pandas/)
-9. [Formatting MatPLotLib Charts](https://matplotlib.org/api/_as_gen/matplotlib.pyplot.scatter.html)
+9. [Formatting MatPLotLib Charts](https://matplotlib.org/api/_as_gen/matplotlib.pyplot.scatter.html) and [here](http://chris35wills.github.io/courses/PythonPackages_matplotlib/matplotlib_scatter/)
