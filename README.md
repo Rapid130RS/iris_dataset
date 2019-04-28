@@ -73,4 +73,12 @@ This exercise did not shed any more light on the nature of the dataset, but is a
 ### Summary Findings
 
 
+#### In respect of the Iris Dataset
+There are clear distinctions between _Iris Setosa_ is and both _Iris Versicolor_, or _Iris Virginica_. A predictive model could be developed that would allow researchers focus on the relationship between petal and sepal dimensions.
+
+#### In respect of the Python Libraries
+The python libraries used show how a descriptive analysis can be conducted, with limited knowledge of Python. A useful feature is that the source of the data was a URL, which could mean that researchers could update this shared resource, that could produce periodical reports. 
+The libraries also demonstrated that a predictive model can be created that would allow researchers to categorise classes of Iris by their measurements.  
+
+
 
