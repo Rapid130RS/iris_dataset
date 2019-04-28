@@ -27,7 +27,7 @@ Python libraries will be of particular use in generating visualiations of the da
 
 # Utilising Python to Interpret Data
 
-The script for the analysis of the Iris Database is [here](https://github.com/Rapid130RS/pands-project/blob/archive/matplotlib_pyplot.ipynb).
+The script for the analysis of the Iris Database is [here](https://github.com/Rapid130RS/pands-project/blob/master/main.py).
 
 ## Gaining Specific Insights using Python Libraries
 
