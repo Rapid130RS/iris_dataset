@@ -33,28 +33,33 @@ At RA Fisher's published his paper, collecting, understanding and visualisng dat
 [Matplotlib Pyplot](https://matplotlib.org/api/pyplot_api.html) is a library that allows for creation of a wide range of data visualisations. 
 Using the Pandas library, I obtianed the Iris Dataset and was able to extract descritpive statitics. I began by obtaining the mean for Sepal and Petal Width and Length.
 
-###Average Values for the Three Classes 
+#### Average Values for the Three Classes 
 
 ![meanValues](meanValues.png)
 
 Using the mean values for all classes and for each of the classes did not provide any valuable insights into the differences between the classes.
 
 I seperated the data for each class of Iris and sought to visualise the data.
-An output of this was a high level analysis of the disperal of the data. Each of the three classes of Iris have
+An output of this was a high level analysis of the disperal of the data. 
 
+##### High Level Analysis of Each Class
 ![](SetosaDescriptiveAnalytics.png) 
 ![](VerginicaDescriptiveAnalytics.png) 
-![](VersicolourDescriptiveAnalytics.png) 
+![](VersicolourDescriptiveAnalytics.png)
+
+The scatter plot indicates that there are distinct differences in the dispersion of data points for each class of Iris. 
+
+### Saeborn Pairplot
+
+Seaborn Pairplot is an out of the box series of charts  that allowed me to visualise the relationship between the thress classes. From these charts I can quickly see how all the variables are related. This would be of help when infering
+which variables have a skewed distribution and as the first step in furhter analysis.
+#### Comparison of The Three Classes Using Seaborn Pairplot
+![pairplot](pairplot.png)
 
 
 
 
 
-
-
-
-
-I was especially interested in creating a 3D plot of the Iris dataset. A [tutotrial](https://jakevdp.github.io/PythonDataScienceHandbook/04.12-three-dimensional-plotting.html) on the topic 
 
 
 ### Predictive Analysis using SciKit Learn
@@ -63,5 +68,5 @@ I was especially interested in creating a 3D plot of the Iris dataset. A [tutotr
 The [python script](https://github.com/Rapid130RS/iris_dataset/blob/master/scikit.py) allows the user to enter measurements for a flower. The predicitve analaytics functions assesses if the data matches one of the four classes of Iris recorded in the Iris dataset.
 This excercise did not shed any more light on the nature of the dataset, but is a proof of concept for a furhter iteration that would parse user's inputs and conduct a more sophisticated form of predicitve analytics.
 
-
+### Summary Findings
 
