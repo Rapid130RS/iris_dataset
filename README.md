@@ -8,7 +8,7 @@ My objective is to demonstrate some of the capabilities of Python in gaining ins
 The install instrucitons for MacOS and Windows [here](https://github.com/Rapid130RS/iris_dataset/edit/master/install_instructions.md)
 
 ## What is the Iris dataset?
-![Iris](iris.jpg)
+![Iris](iris.jpg| width=100)
 
 The subject matter of the Iris dataset is a family of 260–300 types of flowers. In 1936 RA Fisher published a 
 [paper](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1469-1809.1936.tb02137.x "Named link title") in the _Annals of Eugenics_. RA Fisher sought to differentiate between flowers based on their characteristics. In particular, he aimed to assess whether some types (genus) were misclassified. 
@@ -18,7 +18,7 @@ The data set contains 150 records of three different types (classes) of iris flo
 
 The data set has been used to demonstrate how features of an Iris flower can identify the class of Iris. The values for length and width can be used to classify an Iris into one of three classes: _Iris setosa_, _Iris versicolor_, or _Iris virginica_. 
 In the paper, a table of values is provided; as can be seen, a visual inspection of the data does not provide any valuable insights.
-![iris_dataset](iris_data.png)
+![iris_dataset](iris_data.png| width=100)
 
 Python libraries will be of pacticular use in generating visualiations of the data and in allowing the user obting a quick overview of the data.
 
