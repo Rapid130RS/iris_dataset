@@ -1,7 +1,10 @@
 # Exploring the Iris Dataset through Python
-# Overview
+## Overview
+
 This relates to the classic Iris dataset. My objective is to understand the Iris dataset, analysis and make some insights into the dataset.
+
 ## Objectives of this work
+
 My objective is to demonstrate some of the capabilities of Python in gaining insights from a dataset to an audience who may be aware of statistical methods, but not of Python functionality. I will achieve this by examining the Iris dataset and extrapolating some findings.
 
 ## Setup Instructions
@@ -56,6 +59,9 @@ which variables have a skewed distribution and as the first step in furhter anal
 #### Comparison of The Three Classes Using Seaborn Pairplot
 ![pairplot](pairplot.png)
 
+This visualisation clearly shows how _Iris Setosa_ is disctinct from _Iris Versicolor_, or _Iris Virginica_ when petal sizes are compared with sepal sizes. This can be seen in the following chart.
+
+![pairplotCopy](pairplot_copy.png)
 
 
 
@@ -66,6 +72,7 @@ which variables have a skewed distribution and as the first step in furhter anal
 
 [SciKit Learn](https://scikit-learn.org/stable/index.html) is a Python library that provides visualisation and predicitve analytics tools. I researched the abiulity to use SciKit to allow users check if a flower matches one of the classess of Iris. The [SciKit tutorial](https://scikit-learn.org/stable/tutorial/basic/tutorial.html) on this subject led my thinking. 
 The [python script](https://github.com/Rapid130RS/iris_dataset/blob/master/scikit.py) allows the user to enter measurements for a flower. The predicitve analaytics functions assesses if the data matches one of the four classes of Iris recorded in the Iris dataset.
+![SciKitLearns](SciKitLearn.png)
 This excercise did not shed any more light on the nature of the dataset, but is a proof of concept for a furhter iteration that would parse user's inputs and conduct a more sophisticated form of predicitve analytics.
 
 ### Summary Findings
