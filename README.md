@@ -8,7 +8,7 @@ My objective is to demonstrate some of the capabilities of Python in gaining ins
 The install instrucitons for MacOS and Windows [here](https://github.com/Rapid130RS/iris_dataset/edit/master/install_instructions.md)
 
 ## What is the Iris dataset?
-![Iris](iris.jpg| width=100)
+![Iris](iris.jpg | width=40px height=400px)
 
 The subject matter of the Iris dataset is a family of 260–300 types of flowers. In 1936 RA Fisher published a 
 [paper](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1469-1809.1936.tb02137.x "Named link title") in the _Annals of Eugenics_. RA Fisher sought to differentiate between flowers based on their characteristics. In particular, he aimed to assess whether some types (genus) were misclassified. 
